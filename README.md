@@ -18,7 +18,7 @@
 
 ---
 ## Publications
-- [See list of publications](https://github.com/yaten2020/my_pages/blob/main/index.html)
+- [See list of publications](https://yaten2020.github.io/my_pages/)
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=x_-re7MAAAAJ&view_op=list_works&sortby=pubdate)  
 
 ---
