@@ -1,10 +1,10 @@
 # Hi, I'm Yatendra Kumar 👋  
 
-**Computational & Molecular &  Biologist (PhD)** 
+**Computational & Molecular Biologist (PhD)** 
 - Experienced postdoc with expertise in **functional genomics, epigenetics, and rare disease research**.  
 - I bridge **biology and computation**: building reproducible pipelines, analyzing NGS data, and integrating multi-omics to uncover disease mechanisms.
 - Adulting part-time to break into Data Science in Genomics.
-- Read more on my [Research Profile at University of Edinburgh](https://www.research.ed.ac.uk/en/persons/yatendra-kumar) or connect with me on [LinkedIn](https://www.linkedin.com/in/yatendra-kumar-3b882792/) 
+- Read more on my [Research Profile at University of Edinburgh](https://edwebprofiles.ed.ac.uk/profile/yatendra-kumar) or connect with me on [LinkedIn](https://www.linkedin.com/in/yatendra-kumar-3b882792/) 
 
 📍 Based in Edinburgh, UK.  
 ---
